@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover_image": "https://i.ibb.co/Jprdg3f/banner.png",
+      "author": "John Doe",
+      "author_picture": "https://i.ibb.co/K0D8g29/people.png",
+      "cover_page": "https://example.com/page1",
+      "posted_date": "2024-03-12",
+      "reading_time": "10 mins",
+      "hashtags": ["technology", "programming", "webdev"]
+    },
+    {
+      "id": 2,
+      "cover_image": "https://i.ibb.co/Jprdg3f/banner.png",
+      "author": "Jane Smith",
+      "author_picture": "https://i.ibb.co/K0D8g29/people.png",
+      "cover_page": "https://example.com/page2",
+      "posted_date": "2024-03-11",
+      "reading_time": "8 mins",
+      "hashtags": ["science", "research", "biology"]
+    },
+    {
+      "id": 3,
+      "cover_image": "https://i.ibb.co/Jprdg3f/banner.png",
+      "author": "Alice Johnson",
+      "author_picture": "https://i.ibb.co/K0D8g29/people.png",
+      "cover_page": "https://example.com/page3",
+      "posted_date": "2024-03-10",
+      "reading_time": "15 mins",
+      "hashtags": ["art", "design", "creativity"]
+    },
+    {
+      "id": 4,
+      "cover_image": "https://i.ibb.co/Jprdg3f/banner.png",
+      "author": "Bob Williams",
+      "author_picture": "https://i.ibb.co/K0D8g29/people.png",
+      "cover_page": "https://example.com/page4",
+      "posted_date": "2024-03-09",
+      "reading_time": "12 mins",
+      "hashtags": ["travel", "adventure", "photography"]
+    },
+    {
+      "id": 5,
+      "cover_image": "https://i.ibb.co/Jprdg3f/banner.png",
+      "author": "Emily Brown",
+      "author_picture": "https://i.ibb.co/K0D8g29/people.png",
+      "cover_page": "https://example.com/page5",
+      "posted_date": "2024-03-08",
+      "reading_time": "20 mins",
+      "hashtags": ["health", "fitness", "nutrition"]
+    }
+  ]
+  
